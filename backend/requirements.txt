@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+langchain
+chromadb
+python-multipart
+pydantic
+python-dotenv
+PyMuPDF
+rank-bm25
+python-docx
+sse-starlette
+openai

@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Environment variables (IMPORTANT: contains API keys)
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# IDE
+.vscode/
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Data directory (uploaded documents)
+data/
